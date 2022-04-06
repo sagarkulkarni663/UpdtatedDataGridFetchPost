@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1649233977528" clover="3.2.0">
+  <project timestamp="1649233977528" name="All files">
+    <metrics statements="37" coveredstatements="36" conditionals="9" coveredconditionals="9" methods="15" coveredmethods="14" elements="61" coveredelements="59" complexity="0" loc="37" ncloc="37" packages="1" files="3" classes="3"/>
+    <file name="FetchingData.tsx" path="C:\Users\extwe\Downloads\DataGridFetchingPosts\src\FetchingData.tsx">
+      <metrics statements="21" coveredstatements="20" conditionals="4" coveredconditionals="4" methods="9" coveredmethods="8"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="9" type="stmt"/>
+      <line num="8" count="9" type="stmt"/>
+      <line num="9" count="9" type="stmt"/>
+      <line num="10" count="9" type="stmt"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="17" count="3" type="stmt"/>
+      <line num="18" count="3" type="stmt"/>
+      <line num="19" count="3" type="stmt"/>
+      <line num="20" count="3" type="stmt"/>
+      <line num="23" count="3" type="stmt"/>
+      <line num="24" count="3" type="stmt"/>
+      <line num="28" count="9" type="stmt"/>
+      <line num="29" count="3" type="stmt"/>
+      <line num="30" count="3" type="stmt"/>
+      <line num="32" count="9" type="stmt"/>
+      <line num="33" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="34" count="6" type="stmt"/>
+      <line num="35" count="0" type="stmt"/>
+      <line num="37" count="6" type="stmt"/>
+      <line num="41" count="9" type="stmt"/>
+    </file>
+    <file name="SendingData.tsx" path="C:\Users\extwe\Downloads\DataGridFetchingPosts\src\SendingData.tsx">
+      <metrics statements="11" coveredstatements="11" conditionals="5" coveredconditionals="5" methods="4" coveredmethods="4"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="15" count="8" type="stmt"/>
+      <line num="16" count="8" type="stmt"/>
+      <line num="18" count="8" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="49" count="8" type="stmt"/>
+      <line num="52" count="8" type="stmt"/>
+      <line num="55" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="59" count="8" type="cond" truecount="3" falsecount="0"/>
+      <line num="63" count="1" type="stmt"/>
+    </file>
+    <file name="ShowingData.tsx" path="C:\Users\extwe\Downloads\DataGridFetchingPosts\src\ShowingData.tsx">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="6" type="stmt"/>
+      <line num="7" count="6" type="stmt"/>
+      <line num="9" count="6" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

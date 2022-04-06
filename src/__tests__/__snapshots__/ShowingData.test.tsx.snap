@@ -1,0 +1,146 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`checking Showing data component matchingSnapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        style="padding: 24px; justify-content: center; display: flex; margin-top: 5em;"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-bhp9pd-MuiPaper-root-MuiCard-root"
+          style="padding: 1em; border: 1px solid black;"
+        >
+          <h5
+            class="MuiTypography-root MuiTypography-h5 css-ag7rrr-MuiTypography-root"
+            data-testid="heading"
+            style="text-align: center;"
+          >
+            PostDetails
+          </h5>
+          <div
+            class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-h6 css-2ulfj5-MuiTypography-root"
+              data-testid="jsonData"
+            >
+              {"id":"30802459","title":"How to compile SASS into CSS and watch for changes?","url":"https://syntackle.vercel.app/blog/how-to-compile-sass-into-css-and-watch-for-changes-5MHo7HhHUHUedZXaP62y/","created_at":"2022-03-25T14:18:24.000Z","author":"murtuzaalisurti"}
+            </h6>
+          </div>
+          <div
+            style="text-align: end;"
+          >
+            <button
+              class="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root  css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+              data-testid="button"
+              tabindex="0"
+              type="button"
+            >
+              Back
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      style="padding: 24px; justify-content: center; display: flex; margin-top: 5em;"
+    >
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-bhp9pd-MuiPaper-root-MuiCard-root"
+        style="padding: 1em; border: 1px solid black;"
+      >
+        <h5
+          class="MuiTypography-root MuiTypography-h5 css-ag7rrr-MuiTypography-root"
+          data-testid="heading"
+          style="text-align: center;"
+        >
+          PostDetails
+        </h5>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <h6
+            class="MuiTypography-root MuiTypography-h6 css-2ulfj5-MuiTypography-root"
+            data-testid="jsonData"
+          >
+            {"id":"30802459","title":"How to compile SASS into CSS and watch for changes?","url":"https://syntackle.vercel.app/blog/how-to-compile-sass-into-css-and-watch-for-changes-5MHo7HhHUHUedZXaP62y/","created_at":"2022-03-25T14:18:24.000Z","author":"murtuzaalisurti"}
+          </h6>
+        </div>
+        <div
+          style="text-align: end;"
+        >
+          <button
+            class="MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root  css-1rwt2y5-MuiButtonBase-root-MuiButton-root"
+            data-testid="button"
+            tabindex="0"
+            type="button"
+          >
+            Back
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
